@@ -14,7 +14,7 @@
     <name>Laboratoriska_2</name>
     <description>Laboratoriska_2</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17.0.1</java.version>
     </properties>
     <dependencies>
         <dependency>
